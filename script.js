@@ -59,7 +59,7 @@ function openWindow(url) {
 
 function proCreate() {	
 	for (var i = 0; i < 5; i++) {
-		openWindow('lol.html');
+		openWindow('https://captaincookie15.github.io/captaincookie15-idiot-.github.io/');
 	}
 }
 
