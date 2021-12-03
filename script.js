@@ -59,7 +59,7 @@ function openWindow(url) {
 
 function proCreate() {	
 	for (var i = 0; i < 5; i++) {
-		openWindow('https://captaincookie15.github.io/idiot/');
+		openWindow('https://pokemonrise-unblocked.github.io/pokemon-rise/');
 	}
 }
 
